@@ -17,3 +17,15 @@ IronPython >= 2.7.5
 GHPython
 
 GHPython Remote (for installation and further details: https://github.com/Digital-Structures/ghpythonremote)
+
+## Usage
+
+Open Rhinoceros and Grasshopper.
+
+Make sure that you installed GHPython and GHPython Remote properly.
+
+Drag **"segmentation.gh"** file and drop it into Grasshopper interface.
+
+There are **Training Set** and **Test Set** prepared from scratch -- you can customize the datasets according to your needs!
+
+Obtain the labelled 3D model by activating GHPython Remote.
