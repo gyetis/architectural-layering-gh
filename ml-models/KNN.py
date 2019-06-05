@@ -1,3 +1,7 @@
+__author__="GizemYetis & OzanYetkin"
+__mail__="yetis.gizem@metu.edu.tr & ozan.yetkin@metu.edu.tr"
+__institution__="Middle East Technical University, Department of Architecture, Building Science"
+
 from Grasshopper import DataTree
 import scriptcontext
 np = scriptcontext.sticky['numpy']
